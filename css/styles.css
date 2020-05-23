@@ -183,10 +183,9 @@ footer{
 .social a:hover{
    color:#3498db
 }
-.input{
-    value:"Download Resume";
-    background-color: transparent;
-    border: none
+.input[value="Download Resume"] {
+    background: transparent;
+    border: none;
 }
 .btn-rounded-white{
    display:inline-block;
