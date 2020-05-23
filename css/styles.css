@@ -183,10 +183,6 @@ footer{
 .social a:hover{
    color:#3498db
 }
-.input[value="Download Resume"] {
-    background: transparent;
-    border: none;
-}
 .btn-rounded-white{
    display:inline-block;
    color:#fff;
@@ -690,4 +686,8 @@ header {
 @media only screen and (max-width: 768px)
 #mobile-menu-open, #mobile-menu-close {
     z-index: 99999;
+}
+input[value="Download Resume"] {
+    background: transparent;
+    border: none;
 }
