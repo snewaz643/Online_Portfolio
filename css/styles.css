@@ -687,3 +687,7 @@ header {
 #mobile-menu-open, #mobile-menu-close {
     z-index: 99999;
 }
+input[value="Download Resume"] {
+    background: transparent;
+	border: none
+}
